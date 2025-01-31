@@ -1,0 +1,30 @@
+Hellow guys its just creative and lilczy project , we all have attachments to older games here is my lil contribution
+to revive that "classic snake game" , but lil twist here is instead using navigation buttons,
+play (operate that snake with your hand motions)
+
+!!!!!! GAME INTRO !!!!
+Q- quit
+P- pause
+use your palm to navigate snake.... and you re smart :)
+
+
+[GAME REQUIREMENTS]
+| Normal Laptop or Desktop |
+| Webcam                   |
+| Python Env With (Vs code, Pycharm or whatever your are confortable with)|
+
+
+|- Here are few Pythonlib is req for my code , if you have this well and good or just copy paste  -|
+
+pip install pygame
+pip install mediapipe
+pip install pillow
+
+And  you are ready to bang the game us run hand_snake.py file.
+
+
+(Well i m just curious person for technologies whether is new or old , if you want to text me ..Dm me on instagram "enigme_demon" .)
+
+
+
+|
